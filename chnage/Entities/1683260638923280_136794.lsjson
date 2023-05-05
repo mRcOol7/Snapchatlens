@@ -1,0 +1,39 @@
+{
+    "1683260638919914:136793": {
+        "IFileManager": {
+            "path": "Files/File_1683260638919914_136793"
+        }
+    },
+    "1683260638923280:136794": {
+        "IResourceController": {
+            "name": "Color Gradient",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683260638923287:136795",
+            "fileId": "1683260638919914:136793",
+            "originalId": "1683260638964909:136807",
+            "publicId": "1683260639559479:136988",
+            "expected_hash": "e249f884acc7215df768b0f027552209"
+        },
+        "IResourceManager": {
+            "uid": "1683260638923287:136795",
+            "name": "Files/File_1683260638919914_136793",
+            "flags": 1
+        }
+    },
+    "1683260638964909:136807": {
+        "IFileManager": {
+            "path": "Files/File_1683260638964909_136807.lsmat"
+        }
+    },
+    "1683260639559479:136988": {
+        "IResourceController": {
+            "public": {
+                "path": "Color Gradient.lsmat",
+                "hash": "eaa665f58a85c7fa0fd59919497c8ff0"
+            }
+        }
+    }
+}

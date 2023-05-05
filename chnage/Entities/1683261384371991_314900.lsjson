@@ -1,0 +1,42 @@
+{
+    "1683261384360353:314899": {
+        "IFileManager": {
+            "path": "Files/File_1683261384360353_314899.png"
+        }
+    },
+    "1683261384371991:314900": {
+        "IResourceController": {
+            "name": "Sunglass",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683261384373529:314902",
+            "fileId": "1683261384360353:314899",
+            "originalId": "1683261384374405:314908",
+            "publicId": "1683261384384870:314912",
+            "expected_hash": "73d34e29a426f7b7d56e36649f712f64",
+            "additional": {
+                "originHash": "73d34e29a426f7b7d56e36649f712f64"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683261384373529:314902",
+            "name": "Files/File_1683261384360353_314899.png",
+            "flags": 1
+        }
+    },
+    "1683261384374405:314908": {
+        "IFileManager": {
+            "path": "Files/File_1683261384374405_314908.png"
+        }
+    },
+    "1683261384384870:314912": {
+        "IResourceController": {
+            "public": {
+                "path": "Sunglass.png",
+                "hash": "73d34e29a426f7b7d56e36649f712f64"
+            }
+        }
+    }
+}

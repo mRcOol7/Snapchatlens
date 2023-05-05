@@ -1,0 +1,92 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            [
+                "1683261282828791:298912"
+            ]
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "1683260638923287:136795"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "Color Gradient"
+                ],
+                [
+                    "Gauss Blur"
+                ],
+                [
+                    "Monocrome"
+                ],
+                [
+                    "Render Target 2"
+                ],
+                [
+                    "Sunglass"
+                ],
+                [
+                    "Textures"
+                ],
+                [
+                    "Textures",
+                    "Render Target 2"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 2"
+                ],
+                [
+                    "VHS"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            []
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {
+            "1683260892027596:202171": "C:/Program Files/Snap Inc/Lens Studio//Studio3DResources.bundle/post_effects/Monocrome.png",
+            "1683261384371991:314900": "C:/Program Files/Snap Inc/Lens Studio//Studio3DResources.bundle/post_effects/Sunglass.png"
+        }
+    },
+    "InspectorController": {
+        "selection": {
+            "objects": [
+                "1683260891842331:202079"
+            ]
+        }
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {}
+}

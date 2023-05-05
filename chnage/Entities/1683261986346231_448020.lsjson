@@ -1,0 +1,39 @@
+{
+    "1683261986341703:448019": {
+        "IFileManager": {
+            "path": "Files/File_1683261986341703_448019"
+        }
+    },
+    "1683261986346231:448020": {
+        "IResourceController": {
+            "name": "VHS",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683261986346241:448021",
+            "fileId": "1683261986341703:448019",
+            "originalId": "1683261986512205:448045",
+            "publicId": "1683261988255926:448234",
+            "expected_hash": "f90d339efe394da33c08f9e719ffd991"
+        },
+        "IResourceManager": {
+            "uid": "1683261986346241:448021",
+            "name": "Files/File_1683261986341703_448019",
+            "flags": 1
+        }
+    },
+    "1683261986512205:448045": {
+        "IFileManager": {
+            "path": "Files/File_1683261986512205_448045.lsmat"
+        }
+    },
+    "1683261988255926:448234": {
+        "IResourceController": {
+            "public": {
+                "path": "VHS.lsmat",
+                "hash": "0d7a2ddb9cacb78ed4fa5b31174627b8"
+            }
+        }
+    }
+}
